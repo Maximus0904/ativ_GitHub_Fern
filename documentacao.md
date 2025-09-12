@@ -14,4 +14,6 @@ print(c)
 6. No terminal, usei o comando: cd 'Área de Trabalho'
 7. cd 'ativ_GitHub_Fern'
 8. git add . , para adicionar o arquivo projeto.py ao repositório.
-9. git 
+9. git commit "Novo"
+10. git push, envia o arquivo para o git hub
+11. E fiz esse arquivo. A experiência foi mais ou menos com uma dificuldade mínima, mas aprendi o conteúdo.
